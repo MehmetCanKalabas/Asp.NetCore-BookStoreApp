@@ -1,0 +1,3 @@
+2023-07-12 14:46:28.6083 Info Message Template Auto Format enabled
+2023-07-12 14:46:28.9639 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2023-07-12 14:46:29.0556 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\Mehmet Can Kalabaş\Desktop\Projeler\BsStoreApp\WebApi\nlog.config
